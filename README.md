@@ -1,11 +1,6 @@
 ### Hello for Those Who Are Reading This 👋
 
 I am Wesley, a sophomore studying computer science, applied math, and data science at UC Berkeley. I am a student who is still undecided about my future but wants to change the world with the computer science and math knowledge I currently possess.
-
-- 💬 Ask me about Berkeley or college life in general!
-- 📫 How to reach me: WeChat: wesley246
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am on course staff for the artificial intelligence course we have at Berkeley!
 <!--
 **WKaiZ/WKaiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
